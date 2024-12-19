@@ -1,0 +1,43 @@
+react 
+
+컴포넌트: 작은 부품 
+JSX : 문법
+Props and State 데이터 
+
+ESLint
+prettier 
+react
+React Hooks snippets
+React Developer
++ 크롬 react developer tools 확장프로그램 
+
+설치 후 실행 
+>npm create vite@latest . 
+>npm install 
+>npm run dev
+
+구조 
+entry point -> index.html > main.jsx > app.jsx > 컴포넌트 렌더링 > 출력 
+
+과정
+index html > src/main.jsx => createRoot => App.jsx 
+
+개발 버전 실행
+- npm run dev 
+
+미리 보기 
+npm run 0preview
+= npx serve dist
+
+코드 정리 설정 
+ctrl + shift + f 
+codefotmat document 
+>prettier 사용 
+>설정에서 ~save 체크 
+
+*props가 바뀌면 다시 렌더링을 받는다 
+
+리엑터 레퍼런스 
+https://ko.react.dev/learn/writing-markup-with-jsx
+
+    
